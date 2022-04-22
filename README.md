@@ -1,4 +1,4 @@
-# Please see https://github.com/FreesideHull/FreesideWeb for an updated reop
+# Please see https://github.com/FreesideHull/FreesideWeb for an updated repo
 
 # Freeside Web
 
