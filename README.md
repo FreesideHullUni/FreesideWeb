@@ -1,3 +1,5 @@
+# Please see https://github.com/FreesideHull/FreesideWeb for an updated reop
+
 # Freeside Web
 
 This is an [Eleventy](https://11ty.dev/) powered website with [TailWind CSS](https://tailwindcss.com/) and [PostCSS](https://postcss.org/) integration built to serve as a replacement for the Freeside website.
